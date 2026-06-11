@@ -103,7 +103,7 @@
 <br/>
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hammadabiddev&theme=light" 
-    alt="hammadabiddev" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HAMMAD-RESTUP&theme=light" 
+    alt="HAMMAD-RESTUP" 
   />
 </p>
