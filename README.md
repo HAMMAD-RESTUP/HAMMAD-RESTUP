@@ -12,7 +12,7 @@
 </p>
 
 ### About Me
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **Javascript**
 - 🌱 I’m currently learning **Data Structures**
 - 💬 Ask me about **ReactJS, React Native, MERN Stack**
 - 📫 How to reach me: **[hammad.media10@gmail.com](mailto:hammad.media10@gmail.com)**
